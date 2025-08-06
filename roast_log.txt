@@ -1,0 +1,4 @@
+2025-08-06 10:40:35.296615 | Compliment | Input: beautiful | Output: You said: *beautiful*... and still thought you’d escape a roast? 😏
+2025-08-06 10:44:15.081402 | Compliment | Input: pretty | Output: You're like a background service — always running strong. 🔧
+2025-08-06 10:45:00.079794 | Roast | Input: angry | Output: You're like a function that returns None. 🔁
+2025-08-06 10:45:23.160088 | Roast | Input: I am sad | Output: You're neutral — the Switzerland of personality. 🇨🇭
