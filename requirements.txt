@@ -1,0 +1,6 @@
+streamlit
+numpy
+pandas
+textblob
+gTTS
+requests
